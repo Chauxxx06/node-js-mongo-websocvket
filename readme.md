@@ -77,3 +77,6 @@ gestion de dependencias para node
 #### express ####
 libreria para crear servidores en node js
 npm install express()
+
+https://platzi.com/clases/1689-nodejs-mongo-websockets/22632-conceptualmente-rutas-controladores-y-bases-de-dat/
+
