@@ -1,5 +1,8 @@
 const express = require('express');
 const router = require('./network/routes');
+const db = require('./db');
+
+db('mongodb://chaux:lolita2019.@192.168.109.131:27017/?authMechanism=DEFAULT');
 
 const app = express();
 app.use(express.json()) //For JSON requests

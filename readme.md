@@ -80,3 +80,6 @@ npm install express()
 
 https://platzi.com/clases/1689-nodejs-mongo-websockets/22632-conceptualmente-rutas-controladores-y-bases-de-dat/
 
+## Mongoose ##
+mongodb no tiene schemas lo cual es importante saber como se almacena, mongoose es una libreria de node que permite programar las schemas por software para la db, lo cual previene fallos de consistencias, dada la naturaleza de la base de datos por ducomentos
+
