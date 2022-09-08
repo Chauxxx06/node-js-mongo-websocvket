@@ -83,3 +83,7 @@ https://platzi.com/clases/1689-nodejs-mongo-websockets/22632-conceptualmente-rut
 ## Mongoose ##
 mongodb no tiene schemas lo cual es importante saber como se almacena, mongoose es una libreria de node que permite programar las schemas por software para la db, lo cual previene fallos de consistencias, dada la naturaleza de la base de datos por ducomentos
 
+## Websockets ##
+es un protocolo que permite entrega informacion en tiempo real en el cual sde crea un tunel entre el usuario y el servidor, esto para evitar peticiones continuas.
+cuando hay otro lciente, el websaocket abre un canal al otro cliente para que comparta la info. 
+
